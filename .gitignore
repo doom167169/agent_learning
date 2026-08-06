@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 langchain_env/
+Agentic RAG/sample.pdf
